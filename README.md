@@ -1,2 +1,2 @@
 # Docker examples
-Examples of usage of docker
+Examples of usage with docker
